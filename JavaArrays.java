@@ -59,6 +59,7 @@ public class JavaArrays {
 		System.arraycopy(srcarray, 2, tgtarray, 0, 4);
 
 		System.out.println(String.valueOf(tgtarray));
+		// i am adding in emergency fix
 		
 		for (char tgt:tgtarray)
 		{
