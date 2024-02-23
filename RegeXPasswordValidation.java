@@ -31,5 +31,5 @@ public class RegeXPasswordValidation {
 		sc.close();	
 
 	}
-
+	System.out.println("   ");
 }
